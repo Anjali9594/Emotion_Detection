@@ -1,5 +1,5 @@
 # Emotion_Detection
-Simple Emotion_Eetection using Machine Learning
+Simple Emotion_Detection using Machine Learning
 
 To use our Emotion Detection Model
 1.Just clone or download and unzip our resporatory
